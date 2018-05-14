@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87bfea56-bd0f-4f32-b02d-12fd210899c7" name="Default" comment="" />
+    <list default="true" id="87bfea56-bd0f-4f32-b02d-12fd210899c7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java24/EnumExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java24/Level.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java24/Java24/BlankFiller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java24/Java24/Clock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java24/Java24/Commodity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java24/Java24/Credits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java24/Java24/Dice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java24/Java24/PlanetWeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java24/Java24/Root.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Battlepoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour13/Battlepoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Benchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour08/Benchmark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/BlankFiller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour04/BlankFiller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/CableModem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour10/CableModem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/CalculatorWithError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour14/CalculatorWithError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour16/Catalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour07/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/ColorFrameUsingAnonymousInnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour17/ColorFrameUsingAnonymousInnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/ColorFrameUsingClosure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour16/ColorFrameUsingClosure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Commodity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour07/Commodity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/ConfigWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour20/ConfigWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Configurator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour20/Configurator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour20/Console.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Credits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour04/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/DslModem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour10/DslModem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/FontMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour13/FontMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/FreeSpaceFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour17/FreeSpaceFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/FreeSpacePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour17/FreeSpacePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Gremlin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour11/Gremlin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/GremlinLab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour11/GremlinLab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/HelloFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour17/HelloFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour14/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/ID3Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour20/ID3Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/KeyViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour16/KeyViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/KeyViewerImplementingKeyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour18_19/KeyViewerImplementingKeyListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/LetterCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour09/LetterCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/LinkRotator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour15/LinkRotator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/LottoEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour18_19/LottoEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/LottoMadness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour18_19/LottoMadness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Modem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour10/Modem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/ModemTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour10/ModemTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/NameSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour09/NameSorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/NamingLoopBreak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/NamingLoopBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour08/NamingLoopBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Nines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour08/Nines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/NumberDivider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour14/NumberDivider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/PageCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour14/PageCatalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/PlanetWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour05/PlanetWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour12/Point3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/PointTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour12/PointTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/PrimeFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour15/PrimeFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour08/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/Root.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour04/Root.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/ServerCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/SimpleInnerClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour16/SimpleInnerClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/SpaceRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour09/SpaceRemover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/StringLister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour12/StringLister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java24/SwingComponents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java24/Hour17/SwingComponents.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +73,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ReverseString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java24/Hour08/ReverseString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NamingLoopBreak.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Java24/Hour08/NamingLoopBreak.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -20,6 +109,9 @@
     <replaceStrings>
       <replace>Java24</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -36,7 +128,6 @@
         <option value="$PROJECT_DIR$/src/Java24/StringLister.java" />
         <option value="$PROJECT_DIR$/src/Java24/Benchmark.java" />
         <option value="$PROJECT_DIR$/src/Java24/Credits.java" />
-        <option value="$PROJECT_DIR$/src/Java24/Battlepoint.java" />
         <option value="$PROJECT_DIR$/src/Java24/BlankFiller.java" />
         <option value="$PROJECT_DIR$/src/Java24/CableModem.java" />
         <option value="$PROJECT_DIR$/src/Java24/CalculatorWithError.java" />
@@ -73,6 +164,9 @@
         <option value="$PROJECT_DIR$/src/Java24/PlanetWeight.java" />
         <option value="$PROJECT_DIR$/src/Java24/Point3D.java" />
         <option value="$PROJECT_DIR$/src/Java24/PrimeFinder.java" />
+        <option value="$PROJECT_DIR$/src/Java24/Level.java" />
+        <option value="$PROJECT_DIR$/src/Java24/EnumExample.java" />
+        <option value="$PROJECT_DIR$/src/Java24/Battlepoint.java" />
       </list>
     </option>
   </component>
@@ -87,7 +181,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,11 +204,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -132,7 +227,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Dice">
+  <component name="RunManager" selected="Application.Clock">
+    <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java24.Hour07.Clock" />
+      <module name="Java24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java24.Hour07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="ConfigWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java24Hours.ConfigWriter" />
       <module name="Java24" />
@@ -145,12 +251,23 @@
       </extension>
     </configuration>
     <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java24.Dice" />
+      <option name="MAIN_CLASS_NAME" value="Java24.Hour04.Dice" />
       <module name="Java24" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java24.*" />
+          <option name="PATTERN" value="Java24.Hour04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EnumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java24.Hour08.EnumExample" />
+      <module name="Java24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java24.Hour04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,9 +328,13 @@
       <item itemvalue="Application.ID3Reader" />
       <item itemvalue="Application.ConfigWriter" />
       <item itemvalue="Application.Dice" />
+      <item itemvalue="Application.EnumExample" />
+      <item itemvalue="Application.Clock" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Clock" />
+        <item itemvalue="Application.EnumExample" />
         <item itemvalue="Application.Dice" />
         <item itemvalue="Application.ConfigWriter" />
         <item itemvalue="Application.ID3Reader" />
@@ -236,378 +357,398 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.3298292" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298292" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3298292" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293011" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293011" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39919356" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Java24/Battlepoint.java">
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour04/Dice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/Benchmark.java">
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour04/Root.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour04/BlankFiller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour05/PlanetWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour06/Credits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/time/LocalDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="684" column="15" selection-start-line="684" selection-start-column="15" selection-end-line="684" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour07/Clock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour08/Benchmark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour08/Nines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/time/temporal/ChronoField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="302" column="4" selection-start-line="302" selection-start-column="4" selection-end-line="302" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour07/Commodity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour09/NameSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour09/SpaceRemover.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/BlankFiller.java">
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour10/DslModem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/CableModem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/CalculatorWithError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/Clock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/ColorFrameUsingAnonymousInnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/ColorFrameUsingClosure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/Commodity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/Configurator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/ConfigWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/Console.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/Credits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="40">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/Catalog.java">
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour10/ModemTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/FontMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/FreeSpaceFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/FreeSpacePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/Gremlin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/GremlinLab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/HelloFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/ID3Reader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/KeyViewer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/KeyViewerImplementingKeyListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/LetterCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/LinkRotator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/LottoEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/LottoMadness.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/Modem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/ModemTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/NameSorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/NamingLoopBreak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/NumberDivider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/PageCatalog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/PlanetWeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/Point3D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/Nines.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/PointTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/PrimeFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="40">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/Root.java">
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour10/Modem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="40">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/ServerCheck.java">
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour10/CableModem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="40">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/SimpleInnerClasses.java">
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour11/GremlinLab.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="40">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/SpaceRemover.java">
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour11/Gremlin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="40">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/StringLister.java">
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour12/Point3D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour12/PointTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour12/StringLister.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/SwingComponents.java">
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour13/Battlepoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="80">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/DslModem.java">
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour13/FontMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour14/CalculatorWithError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour14/NumberDivider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour14/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour14/PageCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour15/LinkRotator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour15/PrimeFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour16/Catalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour16/KeyViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour16/ColorFrameUsingClosure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour17/SwingComponents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour17/FreeSpaceFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour17/FreeSpacePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour17/HelloFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour18_19/KeyViewerImplementingKeyListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour18_19/LottoEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour18_19/LottoMadness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour20/Console.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour20/ID3Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour20/ConfigWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour20/Configurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour17/ColorFrameUsingAnonymousInnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour09/LetterCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/ServerCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour16/SimpleInnerClasses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java24/Dice.java">
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour08/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java24/Hour08/NamingLoopBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
